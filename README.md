@@ -24,10 +24,10 @@ Star UML
 ### UML Diagrams:
 USE CASE DIAGRAM:
 <img width="935" height="672" alt="image" src="https://github.com/user-attachments/assets/5ffca78d-cb93-4443-9be7-2e7b4c8c43d2" />
-CLASS DIAGRAM:
+ CLASS DIAGRAM:
 <img width="946" height="677" alt="image" src="https://github.com/user-attachments/assets/8fdd01f5-e3cc-453f-aaf5-28395aa287d0" />
 COMMUNICATION DIAGRAM:
-<img width="946" height="677" alt="image" src="https://github.com/user-attachments/assets/ecc3ff3c-2fd4-48d2-8709-041c910ba22d" />
+<img width="932" height="676" alt="image" src="https://github.com/user-attachments/assets/0c30fc28-5362-451b-b928-1bef01cd3907" />
 PACKAGE DIAGRAM:
 <img width="935" height="672" alt="image" src="https://github.com/user-attachments/assets/aca8f1ea-9030-4563-9052-326073480bdc" />
 SEQUENCE DIAGRAM:
